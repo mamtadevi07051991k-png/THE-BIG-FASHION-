@@ -1,0 +1,15 @@
+{
+  "name": "The Big Fashion",
+  "short_name": "Big Fashion",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e83e70",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
